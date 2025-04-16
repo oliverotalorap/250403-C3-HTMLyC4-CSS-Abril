@@ -13,18 +13,42 @@ body{
       padding: 1em; 
       margin:auto; /* Centra el cuadro */  
       transition: 3s;
-   };   /*   
-   display: flex;  No vi camvios
-   flex-direction:auto;
-   align-items:end; Alinecion
+      /*   
+      display: flex;  No vi camvios
+      flex-direction:auto;
+      align-items:end; Alinecion
       */
+      }   
 
-.fondo {background-color: red;}
+      #enlace-link {
+         border: 3px solid black;
+         /* vienpor  
+         width: 50vw
+         */
+         width: 60vw;
+         margin: auto;
+         padding: 5em; 
+         display: flex;
+         align-items: center;
+         flex-direction: column;
+         
+         background-color:darkgoldenrod;
+         width: 60vw;
+         margin-top: 1em;
+         border-radius: 10px;
+         padding: 1em;
+         display: flex;
+         padding: 6px 12px 12px 12px;
+         transition: 3s;
+         align-items: center; };
+         
+         #TITL {
+            font-size: 40px;
+            color: red;  
+         };
 
-#TITL {
-   font-size: 40px;
-   color: red;  
-}
+.fondo {background-color: yellow;}
+
 
 .Art-3 { 
    font-weight: bold;
@@ -43,27 +67,5 @@ body{
 
    .Art-1 {background-color: rgb(19, 169, 74);}
      
- #enlace-link {
-    border: 3px solid rgb(200, 25, 25);
-    /* vienpor  
-    width: 50vw
-    */
-    width: 60vw;
-    margin: auto;
-    padding: 5em; 
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    
-    background-color: aqua;
-    width: 60vw;
-    margin-top: 1em;
-    border: 2px solid rgb(18, 157, 35);
-    border-radius: 10px;
-    padding: 1em;
-    display: flex;
-    padding: 6px 12px 12px 12px;
-    transition: 3s;
-    align-items: center; };
 
    
