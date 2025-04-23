@@ -21,22 +21,21 @@ body{
       
    p { font-size: 16px;  color:blanchedalmond; 
    }
-   #enlace-link { 
+   #enlace-ClassCSS { 
       border: 6px solid red;
       background-color:darkgoldenrod;
-      margin-top: 1em;
-      width: 80vw;
+      margin-top: 0em;
+      width: 90vw;
       flex-direction: column;
       border-radius: 20px;
-      padding: 10px 20px 20px 20px;
+      padding: 10px 10px 10px 10px;
       transition: 3s;
    }
    /* 
-      align-items: center;
-   display: flex;
+   display:flow-root;
+   align-items: center;
    margin: auto;
    display: flex;
-   margin: auto;
    align-items: center;
    padding: 1em; 
          */
