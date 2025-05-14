@@ -28,3 +28,9 @@ body{
       transition: 5s;
       width: 70vw; 
    }
+
+   #listas {
+      border: 10px solid brown;
+      border-radius: 30px;
+      background-color:aquamarine;
+   }
