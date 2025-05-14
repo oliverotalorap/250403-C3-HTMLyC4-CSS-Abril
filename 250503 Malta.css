@@ -19,3 +19,12 @@ body{
       width: 60vw; 
       margin:auto; /* Centra el cuadro */       
    }
+
+   .Fotos-M1 { 
+      border: 10px solid red;
+      background-color:aqua;
+      border-radius: 30px;
+      padding: 10px 10px 10px 20px;
+      transition: 5s;
+      width: 70vw; 
+   }
