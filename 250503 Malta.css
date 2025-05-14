@@ -21,8 +21,8 @@ body{
    }
 
    .Fotos-M1 { 
-      border: 10px solid red;
-      background-color:aqua;
+      border: 10px solid brown;
+      background-color:blue;
       border-radius: 30px;
       padding: 10px 10px 10px 20px;
       transition: 5s;
